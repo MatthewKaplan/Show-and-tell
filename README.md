@@ -6,9 +6,9 @@ I created this webpage as a part of the Prework for Turing. I decided to create 
 
 ## Home Page:
 
-![Home Page](https://imgur.com/pFHtV4x)
+![Home Page](https://i.imgur.com/pFHtV4x.jpg)
 
 
 ## Breweries Page:
 
-![Breweries Page](https://imgur.com/TSZFpwl)
+![Breweries Page](https://i.imgur.com/TSZFpwl.jpg)
